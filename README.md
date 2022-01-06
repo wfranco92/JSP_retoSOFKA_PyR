@@ -15,3 +15,5 @@ Se hace uso del archivo "pom.xml" en donde se adicona la dependencia mysql para 
 La URL de conexion se enceuntra en la clase "Conexion", por lo cual para correr el proyecto y realizar una conexion exitosa a la BBDD se debe editar la URL de la linea 24.
 
 Se adiciona los archivos .sql para que puedan ser importados o crear la base de datos "concurso_preguntas" los cuales se encuntran en la carpeta "Preguntas y Respuestas BBDD" del proyecto. 
+
+El proyecto contiene referencias a bootstrap, por lo cual debe haber conexion a interneet para que el estilo CS sea el correcto.
